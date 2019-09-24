@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adila\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\Adil\\Documents\\Github\\ASPTutorial\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adila\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\Adil\\Documents\\Github\\ASPTutorial\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adila\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Adil\\Documents\\Github\\ASPTutorial\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\adila\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
-        "packagesPath": "C:\\Users\\adila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adila\\source\\repos\\MvcMovie\\MvcMovie\\obj\\",
+        "projectPath": "C:\\Users\\Adil\\Documents\\Github\\ASPTutorial\\MvcMovie\\MvcMovie.csproj",
+        "packagesPath": "C:\\Users\\Adil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adil\\Documents\\Github\\ASPTutorial\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\adila\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Adil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -53,6 +55,7 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
